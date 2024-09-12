@@ -14,7 +14,7 @@ const PortfolioPage = () => {
   const [activeCategory, setActiveCategory] = useState('All');
 
   useEffect(() => {
-      fetch('public/projects.json')
+      fetch('\projects.json')
       .then((res) => res.json())
       .then((data) => {
         setProjects(data);
