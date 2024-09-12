@@ -563,7 +563,7 @@ body{
   border-top-right-radius: 0rem;
   border-bottom-right-radius: 0rem;
   height: 1.4rem;
-  top: -28%;
+  top: 0%;
   left: -1px;
   background-color: var(--primaryColor);
 }

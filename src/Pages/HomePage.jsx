@@ -36,7 +36,7 @@ const HomePage = () => {
             <div className="cardsCotainer">
                 <div className="card" id='card'>
                     <div className="CardImageCotainer">
-                        <img src="public/Images/Web Desgin Logo - Comic.jpg" alt="No_Image" />
+                        <img src="public\Images\Web Desgin Logo - Comic.jpg" alt="No_Image" />
                     </div>
                     <div className="cardInfo">
                         <p className="cardLabel">Web Design</p>
@@ -47,7 +47,7 @@ const HomePage = () => {
                 </div>
                 <div className="card" id='card'>
                     <div className="CardImageCotainer">
-                        <img src="public/Images/Web Desgin Logo - Fantasy.jpg" alt="No_Image" />
+                        <img src="public\Images\Web Desgin Logo - Fantasy.jpg" alt="No_Image" />
                     </div>
                     <div className="cardInfo">
                         <p className="cardLabel">Web Development</p>
