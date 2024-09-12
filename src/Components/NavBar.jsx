@@ -8,7 +8,7 @@ const NavBar = () => {
     <div className={`navBarContainer ${theme}`}>
         <div className="navBarHeader">
             <div className="imageContainer">
-                <img src="public\Images\Profile_02.webp" alt="No_Image" />
+                <img src="dist\Images\Profile_02.webp" alt="No_Image" />
             </div>
             <p className="nameText">Vamsi Mannepalli</p>
             <p className="positionText">Full Stack Web Developer</p>

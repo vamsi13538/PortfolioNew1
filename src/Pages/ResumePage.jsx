@@ -13,8 +13,8 @@ const ResumePage = () => {
           <h2 className={`resumePageText ${theme}`}>Resume</h2>
           <button className={`resumeDownloadBtn ${theme}`} title='Download Resume'>
               <a 
-              href="public\Vamsi Manepalli.pdf"
-              download={"Vamsi Mannepalli"}>
+              href="dist\Vamsi Manepalli.pdf"
+              download={"Vamsi Manepalli"}>
               <i className="fa-solid fa-download"></i> Resume
               </a>
           </button>
