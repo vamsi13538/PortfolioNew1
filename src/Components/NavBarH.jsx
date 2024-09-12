@@ -19,7 +19,7 @@ const NavBarH = () => {
             onClick={() => toggleTheme('darkTheme')}><i className="fa-solid fa-moon"></i></button>
         </div>
         <div className={`navBarHListContainer ${theme}`}>
-            <li><NavLink to="/PortfolioNew1/" className={linkActiveClass}>Home</NavLink></li>
+            <li><NavLink to="/PortfolioNew1/" className={linkActiveClass} end>Home</NavLink></li>
             <li><NavLink to="/PortfolioNew1/resume" className={linkActiveClass}>Resume</NavLink></li>
             <li><NavLink to="/PortfolioNew1/projects" className={linkActiveClass}>Projects</NavLink></li>
             <li><NavLink to="/PortfolioNew1/contact" className={linkActiveClass}>Contact</NavLink></li>

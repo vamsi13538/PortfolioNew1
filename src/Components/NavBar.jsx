@@ -8,7 +8,7 @@ const NavBar = () => {
     <div className={`navBarContainer ${theme}`}>
         <div className="navBarHeader">
             <div className="imageContainer">
-                <img src="dist\Images\Profile_02.webp" alt="No_Image" />
+                <img src="https://cdn3d.iconscout.com/3d/premium/thumb/human-resources-manager-3d-icon-download-in-png-blend-fbx-gltf-file-formats--male-man-people-avatars-pack-icons-8772477.png?f=webp" alt="No_Image" />
             </div>
             <p className="nameText">Vamsi Mannepalli</p>
             <p className="positionText">Full Stack Web Developer</p>

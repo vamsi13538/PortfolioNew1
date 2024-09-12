@@ -36,7 +36,7 @@ const HomePage = () => {
             <div className="cardsCotainer">
                 <div className="card" id='card'>
                     <div className="CardImageCotainer">
-                        <img src="dist\Images\Web Desgin Logo - Comic.jpg" alt="No_Image" />
+                        <img src="https://cdn3d.iconscout.com/3d/premium/thumb/man-doing-design-thinking-3d-illustration-download-in-png-blend-fbx-gltf-file-formats--designing-idea-designer-making-searching-pack-development-illustrations-4971232.png?f=webp" alt="No_Image" />
                     </div>
                     <div className="cardInfo">
                         <p className="cardLabel">Web Design</p>
@@ -47,7 +47,7 @@ const HomePage = () => {
                 </div>
                 <div className="card" id='card'>
                     <div className="CardImageCotainer">
-                        <img src="dist\Images\Web Desgin Logo - Fantasy.jpg" alt="No_Image" />
+                        <img src="https://cdn3d.iconscout.com/3d/premium/thumb/web-design-3d-illustration-download-in-png-blend-fbx-gltf-file-formats--developer-application-computer-programming-information-technology-pack-development-illustrations-6594639.png?f=webp" alt="No_Image" />
                     </div>
                     <div className="cardInfo">
                         <p className="cardLabel">Web Development</p>
